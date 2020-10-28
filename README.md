@@ -43,6 +43,7 @@ The plugin is still pending validation from IntelliJ! Only manual install is pos
 
 - `foreach` to collection
 - `array_map` to collection
+- `map(...)->flatten(1)` to `flatMap`
 
 
 ---
